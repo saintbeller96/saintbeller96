@@ -1,7 +1,7 @@
 # Jongseong Kim (saintBeller96) 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaintbeller96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Interest
+## 🛠️Interest
 - Java
 - SpringBoot
 - JPA
@@ -16,11 +16,11 @@
 - 전체 학점: 4.06/4.5    전공 학점: 4.05/4.5 
 - 2014.03. ~ 2019.08. (졸업)
 
-## Awards
+## 🏆Awards
 - 2021.6 삼성 청년 소프트웨어 아카데미 4기 고용노동부 장관상
 - 2021.4 SSAFY-삼성전자 필드 프로젝트 우수 1등
 
-## Project
+## 👨‍💻Project
 - .
 - .
 
