@@ -1,4 +1,31 @@
-### Hi there 👋
+# Jongseong Kim (saintBeller96) 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaintbeller96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Interest
+- Java
+- SpringBoot
+- JPA
+
+## 💻 Development
+- 삼성 청년 소프트웨어 아카데미 실습 코치(2021.7 ~ )
+- 삼성 청년 소프트웨어 아카데미 4기(2020.7 ~ 2021.6)
+- 세종대학교 데이터마이닝 연구실(2018.9 ~ 2019.8)
+
+## 👩‍🏫Education
+**세종대학교 컴퓨터공학과**
+- 전체 학점: 4.06/4.5    전공 학점: 4.05/4.5 
+- 2014.03. ~ 2019.08. (졸업)
+
+## Awards
+- 2021.6 삼성 청년 소프트웨어 아카데미 4기 고용노동부 장관상
+- 2021.4 SSAFY-삼성전자 필드 프로젝트 우수 1등
+
+## Project
+- .
+- .
+
+## Algorithm
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawhdtjd9)](https://solved.ac/rlawhdtjd9)
 
 <!--
 **saintbeller96/saintbeller96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
