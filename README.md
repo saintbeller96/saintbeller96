@@ -21,8 +21,9 @@
 - 2021.4 SSAFY-삼성전자 필드 프로젝트 우수 1등
 
 ## 👨‍💻Project
-- .
-- .
+- 고민 상담 플랫폼: Porest (2021.4 ~ 2021.6)
+- 성격 유형 검사(MBTI)를 사용한 삼성제품 추천 Cloud Native 서비스: SSBTI (2021.2 ~ 2021.4)
+- 장소기반 추억 공유 SNS: Viewment (2021.1 ~ 2021.2)
 
 ## Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawhdtjd9)](https://solved.ac/rlawhdtjd9)
