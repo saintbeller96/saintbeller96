@@ -1,13 +1,18 @@
 # Jongseong Kim (saintBeller96) 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaintbeller96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## 🛠️Interest
+## 🛠 Tech
 - Java
 - SpringBoot
 - JPA
 
+## 🔬Interest
+- Kotlin
+- Webflux
+- Kafka, MongoDB
+- BDD
+
 ## 💻 Development
-- 카카오 엔터테인먼트(2021.12 ~ )
+- 카카오 엔터테인먼트 백엔드 개발자(2021.12 ~ )
 - 삼성 청년 소프트웨어 아카데미 실습 코치(2021.6 ~ 2021.11)
 - 삼성 청년 소프트웨어 아카데미 4기(2020.7 ~ 2021.6)
 <!-- - 세종대학교 데이터마이닝 연구실(2018.9 ~ 2019.8) -->
@@ -22,11 +27,11 @@
 - 2021.6 삼성 청년 소프트웨어 아카데미 4기 고용노동부 장관상
 - 2021.4 SSAFY-삼성전자 필드 프로젝트 우수 1등
 
-## 👨‍💻Project
+<!-- ## 👨‍💻Project
 - 고민 상담 플랫폼: Porest (2021.4 ~ 2021.6)
 - 성격 유형 검사(MBTI)를 사용한 삼성제품 추천 Cloud Native 서비스: SSBTI (2021.2 ~ 2021.4)
 - 장소기반 추억 공유 SNS: Viewment (2021.1 ~ 2021.2)
-
+ -->
 ## Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawhdtjd9)](https://solved.ac/rlawhdtjd9)
 
