@@ -4,7 +4,6 @@
 ## 🛠 Tech
 - Java, Kotlin
 - SpringBoot
-- Kafka
 
 ## 🔬Learning
 - Coroutine
