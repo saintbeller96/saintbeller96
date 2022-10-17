@@ -6,22 +6,17 @@
 - SpringBoot
 
 ## 🔬Learning
-- Coroutine
 - Spring Webflux
 - Kafka Streams
 
 ## 💻 Development
 - Kakao Entertainment, Backend Developer (2021.12 ~ )
-- Samsung Software Academy For Youth(SSAFY), Project Assistance (2021.6 ~ 2021.11)
+- Samsung Software Academy For Youth(SSAFY), Teaching Assistance (2021.6 ~ 2021.11)
 
  
 ## 🏆Awards
 - SSAFY 4th, Ministry of Employment and Labor prize (2021.6)
-- SSAFY-Samsung Electronics Collaborated Project, 1st prize (2021.4)
 
-
-## Problem Solving
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlawhdtjd9)](https://solved.ac/rlawhdtjd9)
 
 <!--
 **saintbeller96/saintbeller96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
