@@ -3,14 +3,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jongseong-kim-531620220/)](https://www.linkedin.com/in/jongseong-kim-531620220/)
 ## 🛠 Tech
 - Java, Kotlin
-- SpringBoot
-
-## 🔬Learning
-- Spring Webflux
-- Kafka Streams
+- Spring, JPA
+- MySQL, MongoDB
+- EDA with GCP Pub/Sub
+- istio on GKE
 
 ## 💻 Development
-- Kakao Entertainment, Backend Developer (2021.12 ~ )
+- Kakao Entertainment(2021.12 ~ )
+ - Fan Commerce Development(2023.07 ~ )
+ - Melon Next Development(2021.12 ~ 2023.07)
 - Samsung Software Academy For Youth(SSAFY), Teaching Assistance (2021.6 ~ 2021.11)
 
  
